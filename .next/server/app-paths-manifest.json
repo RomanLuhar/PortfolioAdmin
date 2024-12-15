@@ -1,0 +1,18 @@
+{
+  "/api/users/session/route": "app/api/users/session/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/services/[id]/route": "app/api/services/[id]/route.js",
+  "/api/clients/route": "app/api/clients/route.js",
+  "/api/clients/[id]/route": "app/api/clients/[id]/route.js",
+  "/api/testimonials/route": "app/api/testimonials/route.js",
+  "/api/testimonials/[id]/route": "app/api/testimonials/[id]/route.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/admin/services/page": "app/admin/services/page.js",
+  "/admin/clients/page": "app/admin/clients/page.js",
+  "/admin/clients/[id]/edit/page": "app/admin/clients/[id]/edit/page.js",
+  "/admin/testimonials/page": "app/admin/testimonials/page.js",
+  "/admin/clients/add/page": "app/admin/clients/add/page.js",
+  "/admin/testimonials/[id]/edit/page": "app/admin/testimonials/[id]/edit/page.js",
+  "/admin/testimonials/add/page": "app/admin/testimonials/add/page.js",
+  "/admin/enquiries/page": "app/admin/enquiries/page.js"
+}
